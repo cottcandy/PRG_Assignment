@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\1.2\\programming 2\\assignment\\prg assg\\prg assg\\prg assg.csproj": {}
+    "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\PROGRAMMING ADBNFGVHJEWJHGF\\assignment\\prg assg\\prg assg\\prg assg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\1.2\\programming 2\\assignment\\prg assg\\prg assg\\prg assg.csproj": {
+    "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\PROGRAMMING ADBNFGVHJEWJHGF\\assignment\\prg assg\\prg assg\\prg assg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\1.2\\programming 2\\assignment\\prg assg\\prg assg\\prg assg.csproj",
+        "projectUniqueName": "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\PROGRAMMING ADBNFGVHJEWJHGF\\assignment\\prg assg\\prg assg\\prg assg.csproj",
         "projectName": "prg assg",
-        "projectPath": "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\1.2\\programming 2\\assignment\\prg assg\\prg assg\\prg assg.csproj",
+        "projectPath": "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\PROGRAMMING ADBNFGVHJEWJHGF\\assignment\\prg assg\\prg assg\\prg assg.csproj",
         "packagesPath": "C:\\Users\\nandi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\1.2\\programming 2\\assignment\\prg assg\\prg assg\\obj\\",
+        "outputPath": "C:\\Users\\nandi\\OneDrive - Ngee Ann Polytechnic\\NP\\PROGRAMMING ADBNFGVHJEWJHGF\\assignment\\prg assg\\prg assg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nandi\\AppData\\Roaming\\NuGet\\NuGet.Config",
