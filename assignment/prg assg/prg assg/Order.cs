@@ -38,17 +38,16 @@ namespace prg_assg
 
         public Order()
         {
-
+            IceCreamList = new List<IceCream>();
         }
 
         public Order(int id, DateTime tr)
         {
             Id = id;
             TimeReceived = tr;
-            IceCreamList = new List<IceCream>();
         }
 
-        public void ModifyIceCream()
+        public void ModifyIceCream(int index, IceCream iceCream)
         {
             if (index >= 0 && index < IceCreamList.Count)
             {
@@ -75,7 +74,12 @@ namespace prg_assg
 
         public double CalculateTotal()
         {
-           
+            double total = 0;
+            foreach (var iceCream in IceCreamList)
+            {
+                total += iceCream.CalculatePrice();
+            }
+            return total;
         }
 
         public override string ToString()

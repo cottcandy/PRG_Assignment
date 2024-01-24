@@ -1,0 +1,4 @@
+C:\Users\nandi\OneDrive - Ngee Ann Polytechnic\NP\PROGRAMMING ADBNFGVHJEWJHGF\assignment\prg assg\prg assg\obj\Debug\net6.0\prg assg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandi\OneDrive - Ngee Ann Polytechnic\NP\PROGRAMMING ADBNFGVHJEWJHGF\assignment\prg assg\prg assg\obj\Debug\net6.0\prg assg.AssemblyInfoInputs.cache
+C:\Users\nandi\OneDrive - Ngee Ann Polytechnic\NP\PROGRAMMING ADBNFGVHJEWJHGF\assignment\prg assg\prg assg\obj\Debug\net6.0\prg assg.AssemblyInfo.cs
+C:\Users\nandi\OneDrive - Ngee Ann Polytechnic\NP\PROGRAMMING ADBNFGVHJEWJHGF\assignment\prg assg\prg assg\obj\Debug\net6.0\prg assg.csproj.CoreCompileInputs.cache
